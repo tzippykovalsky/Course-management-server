@@ -1,0 +1,17 @@
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\bin\Debug\net8.0\management_cursesBL.deps.json
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\bin\Debug\net8.0\management_cursesBL.dll
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\bin\Debug\net8.0\management_cursesBL.pdb
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\bin\Debug\net8.0\management_cursesDL.dll
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\bin\Debug\net8.0\managmant_cursesEntitis.dll
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\bin\Debug\net8.0\management_cursesDL.pdb
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\bin\Debug\net8.0\managmant_cursesEntitis.pdb
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\obj\Debug\net8.0\management_cursesBL.csproj.AssemblyReference.cache
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\obj\Debug\net8.0\management_cursesBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\obj\Debug\net8.0\management_cursesBL.AssemblyInfoInputs.cache
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\obj\Debug\net8.0\management_cursesBL.AssemblyInfo.cs
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\obj\Debug\net8.0\management_cursesBL.csproj.CoreCompileInputs.cache
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\obj\Debug\net8.0\manageme.5DB6CBF5.Up2Date
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\obj\Debug\net8.0\management_cursesBL.dll
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\obj\Debug\net8.0\refint\management_cursesBL.dll
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\obj\Debug\net8.0\management_cursesBL.pdb
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesBL\obj\Debug\net8.0\ref\management_cursesBL.dll

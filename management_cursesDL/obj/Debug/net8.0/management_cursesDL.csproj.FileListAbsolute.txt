@@ -1,0 +1,17 @@
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\bin\Debug\net8.0\management_cursesDL.deps.json
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\bin\Debug\net8.0\management_cursesDL.runtimeconfig.json
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\bin\Debug\net8.0\management_cursesDL.dll
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\bin\Debug\net8.0\management_cursesDL.pdb
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\bin\Debug\net8.0\managmant_cursesEntitis.dll
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\bin\Debug\net8.0\managmant_cursesEntitis.pdb
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\obj\Debug\net8.0\management_cursesDL.csproj.AssemblyReference.cache
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\obj\Debug\net8.0\management_cursesDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\obj\Debug\net8.0\management_cursesDL.AssemblyInfoInputs.cache
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\obj\Debug\net8.0\management_cursesDL.AssemblyInfo.cs
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\obj\Debug\net8.0\management_cursesDL.csproj.CoreCompileInputs.cache
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\obj\Debug\net8.0\manageme.5560CBF6.Up2Date
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\obj\Debug\net8.0\management_cursesDL.dll
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\obj\Debug\net8.0\refint\management_cursesDL.dll
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\obj\Debug\net8.0\management_cursesDL.pdb
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\obj\Debug\net8.0\management_cursesDL.genruntimeconfig.cache
+C:\פרויקטים שלי\Project_coursManagement-server\management_cursesDL\obj\Debug\net8.0\ref\management_cursesDL.dll

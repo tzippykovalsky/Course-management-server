@@ -1,0 +1,5 @@
+Scaffold-DbContext 'Data Source=PC-ASUS\MYSQL;Initial
+Catalog=CoursesManagementDB;Integrated Security=True;
+Trusted_Connection=True;TrustServerCertificate=True;'
+Microsoft.EntityFrameworkCore.SqlServer -OutputDir EF\Models -Project management_cursesDL 
+-Context CoursesManagementContext -contextDir EF\Contexts -force
